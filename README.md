@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jansen Liang
 - 👀 I’m interested in robotics and AI
-- 🌱 I’m currently learning SLAM
+- 🌱 I’m currently learning Embodied Intelligence
 - 📫 How to reach me “202130131801@mail.scut.edu.cn”
 
 <!---
